@@ -1,0 +1,18 @@
+{
+    "name": "timespan.cs",
+    "version": "1.0.0",
+    "description": "A C#-esque TimeSpan object for Node which makes differential time operations easy",
+    "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
+    "website": "https://sierrasoftworks.com/timespan",
+    "repository": "https://github.com/sierrasoftworks/timespan",
+    "licence": "MIT",
+
+    "scripts": {
+        "test": "mocha"
+    },
+
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    }
+}
